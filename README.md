@@ -1,2 +1,2 @@
-# R_project_template
+# R project template
 my R data science project template
